@@ -1,4 +1,4 @@
-## Open images
+# Publicly Available Images
 
 This is a repo to store images/gifs/videos for public posts. Ie. DEV posts that are too big to embed directly, or for sharing on websites.
 
